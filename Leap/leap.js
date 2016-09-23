@@ -1,5 +1,5 @@
 /*jshint esversion: 6 */
-let message = 'Enter a year to determine if it\'s a leap year!';
+const message = 'Enter a year to determine if it\'s a leap year!';
 let year = window.prompt(message, '2012');
 const Reload = location.reload();
 
